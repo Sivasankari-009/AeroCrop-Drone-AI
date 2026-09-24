@@ -1,0 +1,5 @@
+zone_id,pixel_count,mean_ndvi,mean_ndre,mean_thermal_temperature,vegetation_status
+DRONE-ZONE-001,181,0.3085,0.0388,29.01,Crop Stress
+DRONE-ZONE-002,1370,0.3299,0.0538,29.0,Crop Stress
+DRONE-ZONE-003,116,0.2845,0.0406,29.02,Crop Stress
+DRONE-ZONE-004,6605,0.4149,0.0957,27.82,Crop Stress

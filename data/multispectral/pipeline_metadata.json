@@ -1,0 +1,23 @@
+{
+    "project": "AeroCrop Drone AI",
+    "pipeline": "Multispectral + Thermal Drone Processing",
+    "bands": [
+        "blue",
+        "green",
+        "red",
+        "red_edge",
+        "nir",
+        "thermal"
+    ],
+    "image_size": [
+        256,
+        256
+    ],
+    "vegetation_indices": [
+        "NDVI",
+        "NDRE"
+    ],
+    "segmentation": "Vegetation-based connected-component field-zone segmentation",
+    "zone_count": 4,
+    "data_type": "Synthetic prototype data for end-to-end validation"
+}

@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+xgboost
+tensorflow
+opencv-python
+shap
+joblib
+pillow
+python-dotenv
+sqlalchemy
+requests

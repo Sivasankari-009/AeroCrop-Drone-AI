@@ -1,0 +1,5 @@
+timestamp,zone_id,intervention_type,approved_by,approval_status,execution_mode,reason,resource_volume,estimated_cost,currency,compliance_status,human_approval_required
+2026-09-18T19:35:26.825149,ZONE-0001,spraying,farm manager ,APPROVED,SIMULATED,,,,,,
+2026-09-18T19:35:55.472915,ZONE-0001,spraying,farm manager ,APPROVED,SIMULATED,High pest risk detected,,,,,
+2026-09-19T13:32:11.198730,ZONE-0001,spraying,farm manager,APPROVED,SIMULATED,High pest risk detected,,,,,
+2026-09-19T14:32:45.225975,ZONE-0001,spraying,farm manager,APPROVED,SIMULATED,High pest risk detected,2.5,180.0,INR,COMPLIANT,True

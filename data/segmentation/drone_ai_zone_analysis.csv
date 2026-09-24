@@ -1,0 +1,5 @@
+zone_id,source_zone,pixel_count,mean_ndvi,mean_ndre,mean_thermal_temperature,vegetation_status,cnn_prediction,cnn_confidence,healthy_probability,crop_stress_probability,pest_zone_probability
+DRONE-ZONE-001,63,181,0.3085,0.0388,29.01,Crop Stress,crop_stress,1.0,0.0,1.0,0.0
+DRONE-ZONE-002,127,1370,0.3299,0.0538,29.0,Crop Stress,crop_stress,0.5171,0.4829,0.5171,0.0
+DRONE-ZONE-003,191,116,0.2845,0.0406,29.02,Crop Stress,crop_stress,0.9642,0.0356,0.9642,0.0003
+DRONE-ZONE-004,255,6605,0.4149,0.0957,27.82,Crop Stress,crop_stress,0.9974,0.0023,0.9974,0.0002
